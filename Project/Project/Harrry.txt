@@ -1,0 +1,8 @@
+Password : 1213 : 
+firstname : Harry : 
+lastname : potter : 
+city : jammu : 
+country : India : 
+phone number : 09809745 : 
+mail ID : zd@fbf : 
+JEE rank : 4210 : 
